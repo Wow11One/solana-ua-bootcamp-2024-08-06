@@ -1,0 +1,10 @@
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\librand_core-1a579fb90e334f8e.rmeta: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\os.rs
+
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\rand_core-1a579fb90e334f8e.d: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\os.rs
+
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\os.rs:

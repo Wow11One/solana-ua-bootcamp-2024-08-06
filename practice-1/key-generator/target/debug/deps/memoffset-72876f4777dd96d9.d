@@ -1,0 +1,10 @@
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\libmemoffset-72876f4777dd96d9.rmeta: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs
+
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\libmemoffset-72876f4777dd96d9.rlib: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs
+
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\memoffset-72876f4777dd96d9.d: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs
+
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs:

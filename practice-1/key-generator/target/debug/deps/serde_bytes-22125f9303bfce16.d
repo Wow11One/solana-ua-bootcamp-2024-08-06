@@ -1,0 +1,10 @@
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\libserde_bytes-22125f9303bfce16.rmeta: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src/lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytearray.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytes.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\de.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\ser.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytebuf.rs
+
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\serde_bytes-22125f9303bfce16.d: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src/lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytearray.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytes.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\de.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\ser.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytebuf.rs
+
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src/lib.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytearray.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytes.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\de.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\ser.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.15\src\bytebuf.rs:

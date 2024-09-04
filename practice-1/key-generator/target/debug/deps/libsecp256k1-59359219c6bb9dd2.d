@@ -1,0 +1,9 @@
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\liblibsecp256k1-59359219c6bb9dd2.rmeta: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsecp256k1-0.6.0\src\lib.rs C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\build\libsecp256k1-9f509afb3f13a7a9\out/const.rs C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\build\libsecp256k1-9f509afb3f13a7a9\out/const_gen.rs
+
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\libsecp256k1-59359219c6bb9dd2.d: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsecp256k1-0.6.0\src\lib.rs C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\build\libsecp256k1-9f509afb3f13a7a9\out/const.rs C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\build\libsecp256k1-9f509afb3f13a7a9\out/const_gen.rs
+
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libsecp256k1-0.6.0\src\lib.rs:
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\build\libsecp256k1-9f509afb3f13a7a9\out/const.rs:
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\build\libsecp256k1-9f509afb3f13a7a9\out/const_gen.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\chotk\\Desktop\\курси\\solana-bootcamp\\repo\\solana-ua-bootcamp-2024-08-06\\practice-1\\key-generator\\target\\debug\\build\\libsecp256k1-9f509afb3f13a7a9\\out

@@ -1,0 +1,10 @@
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\libahash-830a8eaaab27579a.rmeta: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src/lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\convert.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\fallback_hash.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\operations.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\random_state.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\specialize.rs
+
+C:\Users\chotk\Desktop\курси\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\deps\ahash-830a8eaaab27579a.d: C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src/lib.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\convert.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\fallback_hash.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\operations.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\random_state.rs C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\specialize.rs
+
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src/lib.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\convert.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\fallback_hash.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\operations.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\random_state.rs:
+C:\Users\chotk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\specialize.rs:

@@ -1,0 +1,1 @@
+C:\Users\chotk\Desktop\courses\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\target\debug\solana-project.exe: C:\Users\chotk\Desktop\courses\solana-bootcamp\repo\solana-ua-bootcamp-2024-08-06\practice-1\key-generator\src\main.rs
